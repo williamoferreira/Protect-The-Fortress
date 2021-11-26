@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2008/12/11 11:56:48.750.pas,C:\Documents and Settings\Administrador\Meus documentos\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\Administrador\Meus documentos\Borland Studio Projects\Protect the fortress\unt_Principal.pas</Transaction>
+    <Transaction>2008/12/11 11:56:48.765.dfm,C:\Documents and Settings\Administrador\Meus documentos\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\Administrador\Meus documentos\Borland Studio Projects\Protect the fortress\unt_Principal.dfm</Transaction>
+    <Transaction>2008/12/11 11:56:55.843.bdsproj,C:\Documents and Settings\Administrador\Meus documentos\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\Administrador\Meus documentos\Borland Studio Projects\Protect the fortress\protect.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

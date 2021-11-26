@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/12/13 15:16:17.052.pas,C:\Users\William\Documents\Borland Studio Projects\Unit1.pas=C:\Users\William\Codigos-Fonte\Delphi\Protect the Fortress\unt_Principal.pas</Transaction>
+    <Transaction>2008/12/13 15:16:17.065.dfm,C:\Users\William\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\William\Codigos-Fonte\Delphi\Protect the Fortress\unt_Principal.dfm</Transaction>
+    <Transaction>2008/12/13 15:16:23.922.bdsproj,C:\Users\William\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\William\Codigos-Fonte\Delphi\Protect the Fortress\ProtectFortress.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
